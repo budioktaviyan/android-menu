@@ -1,2 +1,2 @@
-# android-menu
-Android Simple Navigation Menu
+# Android Simple Navigation Menu
+## Sample Navigation Drawer Menu with Material Design
