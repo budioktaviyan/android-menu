@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Menu</string>
+    <string name="title_section1">Screen 1</string>
+    <string name="title_section2">Screen 2</string>
+    <string name="title_section3">Screen 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_menu1">Menu 1</string>
+    <string name="action_menu2">Menu 2</string>
+</resources>
