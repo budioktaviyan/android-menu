@@ -1,4 +1,7 @@
 #!/bin/bash
+# Configure android application
+echo "Configure android application..."
+gradle wrapper clean build
 
 # Installing android application
 echo "Installing android application..."
