@@ -1,11 +1,3 @@
-## OS ##
-*.DS_Store
-
-## IDE ##
-.settings/
-*.classpath
-*.project
-
 # Built application files
 *.apk
 *.ap_
@@ -23,10 +15,9 @@ gen/
 # Gradle files
 .gradle/
 gradle/
-gradlew
-gradlew.bat
 build/
 /*/build/
+gradlew*
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -36,8 +27,3 @@ proguard/
 
 # Log Files
 *.log
-
-# Others
-.idea/workspace.xml
-.idea/libraries
-captures/
